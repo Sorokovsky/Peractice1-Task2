@@ -15,4 +15,5 @@ int main() {
 	setlocale(LC_ALL, "ukr");
 	// Задача 1
 	compress1();
+	
 }
